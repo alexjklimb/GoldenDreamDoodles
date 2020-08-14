@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Puppies = () => {
+const Why_Irish_Golden_Doodles = () => {
     return (
         <div>Puppies</div>
     )
 }  
 
-export default Puppies;
+export default Why_Irish_Golden_Doodles;
